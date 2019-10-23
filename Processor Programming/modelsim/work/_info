@@ -1,0 +1,1140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP PC/Google Drive/Teaching/ArchOrd Mirjana/3-multicycle_niosII-workinprogress/project_template/modelsim
+Eadd_sub
+Z0 w1571812029
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/modelsim
+Z5 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/add_sub.vhd
+Z6 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/add_sub.vhd
+l0
+L5
+V207_zj^V^3XmVFBkYPT0^3
+!s100 Ho^oT``GLJUNf<W@=D9Un1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1571817240
+!i10b 1
+Z9 !s108 1571817240.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/add_sub.vhd|
+Z11 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/add_sub.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Asynth
+R1
+R2
+R3
+DEx4 work 7 add_sub 0 22 207_zj^V^3XmVFBkYPT0^3
+l22
+L16
+VRSbcWU>_niDOX751;cz_z3
+!s100 OLD5^S4@DA>Q[a470BcS_3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+R0
+R2
+R3
+R4
+Z14 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ALU.vhd
+Z15 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ALU.vhd
+l0
+L24
+VLIV0?b]kCZ40<iPbTC=4:2
+!s100 O`l`Xc5c_V9`dzon<W_fQ2
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ALU.vhd|
+Z17 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ALU.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+DEx4 work 3 alu 0 22 LIV0?b]kCZ40<iPbTC=4:2
+l91
+L34
+Vn7Jhlm<g3=Igo4gAY0?Z=3
+!s100 ao^@A8=RSg[FW?jY:[EXI0
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+R13
+Ebuttons
+R0
+R1
+R2
+R3
+R4
+Z18 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/buttons.vhd
+Z19 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/buttons.vhd
+l0
+L5
+V6nKA>6XmzI`j>a@n4^6Pn2
+!s100 =22bV77NIHzbkEY31]2hQ2
+R7
+32
+Z20 !s110 1571817239
+!i10b 1
+Z21 !s108 1571817239.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/buttons.vhd|
+Z23 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/buttons.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 7 buttons 0 22 6nKA>6XmzI`j>a@n4^6Pn2
+l31
+L22
+Vz=5DD3`[2T_e1Tj`RUBgR3
+!s100 l:Q7JXKFoP5Z9FQDUXG9]3
+R7
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R12
+R13
+Pcheck_functions
+Z24 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R2
+R3
+Z25 w1571812027
+R4
+Z26 8../testbench/check_functions.vhd
+Z27 F../testbench/check_functions.vhd
+l0
+L6
+V6aLKC8M`WFbUTzDPW6He83
+!s100 eDnLHELO`V5ohl=5KQY@20
+R7
+31
+b1
+Z28 !s110 1571817276
+!i10b 1
+Z29 !s108 1571817276.000000
+Z30 !s90 -reportprogress|300|-93|../testbench/check_functions.vhd|
+Z31 !s107 ../testbench/check_functions.vhd|
+!i113 1
+o-93
+R13
+Bbody
+Z32 DPx4 work 15 check_functions 0 22 6aLKC8M`WFbUTzDPW6He83
+R24
+R2
+R3
+l0
+L40
+Vl_?7YlfeIC=0oLhh:^F<e2
+!s100 ]Ul<gd[SNh_SV]VQVO[::0
+R7
+31
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+o-93
+R13
+Ecomparator
+R0
+R2
+R3
+R4
+Z33 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/comparator.vhd
+Z34 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/comparator.vhd
+l0
+L4
+V3WXakLjKGIMC9fTC_zAJG3
+!s100 XTWoF>RX1>LcmLLBBo;N:0
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/comparator.vhd|
+Z36 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/comparator.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 comparator 0 22 3WXakLjKGIMC9fTC_zAJG3
+l23
+L18
+V;<D`fCLX7GonUNR@X5iA]1
+!s100 b<?U5@XdCF0iWQ9V_B;9l2
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Econtroller
+Z37 w1571815931
+R2
+R3
+R4
+Z38 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/controller.vhd
+Z39 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/controller.vhd
+l0
+L4
+V_=HMC5nS7CFmjhkXoh^<L0
+!s100 iLCb?>B5ja1L5iDVmAU]]0
+R7
+32
+R20
+!i10b 1
+R21
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/controller.vhd|
+Z41 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/controller.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 controller 0 22 _=HMC5nS7CFmjhkXoh^<L0
+l42
+L39
+V>RnDU;8zmBC[E]A6Uk82Z0
+!s100 T2K;:5<`AagAnTce`50TR3
+R7
+32
+R20
+!i10b 1
+R21
+R40
+R41
+!i113 1
+R12
+R13
+Ecpu
+R0
+R2
+R3
+R4
+Z42 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/CPU.vhd
+Z43 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/CPU.vhd
+l0
+L24
+VoN1Z@H62cOJ8j76FSZXfk0
+!s100 ?^3E^YkUK_jO8j=PLQg0X0
+R7
+32
+R20
+!i10b 1
+R21
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/CPU.vhd|
+Z45 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/CPU.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+DEx4 work 3 cpu 0 22 oN1Z@H62cOJ8j76FSZXfk0
+l168
+L37
+VU_VbP>G_0>o[AHnGEJ`7A2
+!s100 nj]fOeJzKgV2QQoiYJ37e2
+R7
+32
+R20
+!i10b 1
+R21
+R44
+R45
+!i113 1
+R12
+R13
+Edecoder
+R0
+R1
+R2
+R3
+R4
+Z46 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/decoder.vhd
+Z47 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/decoder.vhd
+l0
+L5
+Vbm@:8]YTPZ2LYfb?C6a8V1
+!s100 gW]HB`KNScBnejDEK[VzB1
+R7
+32
+R8
+!i10b 1
+R9
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/decoder.vhd|
+Z49 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/decoder.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 7 decoder 0 22 bm@:8]YTPZ2LYfb?C6a8V1
+l15
+L14
+VAN[Ikzo>EgKBbO]angaZB1
+!s100 M>K=lc07A>[AXciGaNoF;2
+R7
+32
+R8
+!i10b 1
+R9
+R48
+R49
+!i113 1
+R12
+R13
+Eextend
+R0
+R2
+R3
+R4
+Z50 8../vhdl/extend.vhd
+Z51 F../vhdl/extend.vhd
+l0
+L4
+VKTXRAKc9Q8Hoz:Q5HT:HC0
+!s100 [OER<nle^Gzi[Q]KGKSL33
+R7
+31
+Z52 !s110 1571817248
+!i10b 1
+Z53 !s108 1571817248.000000
+Z54 !s90 -reportprogress|300|-93|../vhdl/extend.vhd|
+Z55 !s107 ../vhdl/extend.vhd|
+!i113 1
+o-93
+R13
+Asynth
+R2
+R3
+DEx4 work 6 extend 0 22 KTXRAKc9Q8Hoz:Q5HT:HC0
+l13
+L12
+V]OCj35oZ6==6WA1S@M5;o1
+!s100 _D<PkbP199;Ho_O4]zk8j1
+R7
+31
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+o-93
+R13
+Egecko
+R0
+R2
+R3
+R4
+Z56 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/GECKO.vhd
+Z57 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/GECKO.vhd
+l0
+L25
+VUUo[=d8;JL2NUd?KL5z>W3
+!s100 LSB69=RnS?7B=e740[]>J0
+R7
+32
+R20
+!i10b 1
+R21
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/GECKO.vhd|
+Z59 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/GECKO.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+Z60 DEx4 work 5 gecko 0 22 UUo[=d8;JL2NUd?KL5z>W3
+l122
+L42
+VXW8hfda?:0fgXTELaMc<M2
+!s100 6_aIkK46>FzI3D:<OBG:Z1
+R7
+32
+R20
+!i10b 1
+R21
+R58
+R59
+!i113 1
+R12
+R13
+Eir
+R0
+R2
+R3
+R4
+Z61 8../vhdl/IR.vhd
+Z62 F../vhdl/IR.vhd
+l0
+L4
+VhD3dd]_2ImaHP@eQT510T1
+!s100 g>VC3<ZiU9SUL1eB^Hc9_3
+R7
+31
+Z63 !s110 1571817265
+!i10b 1
+Z64 !s108 1571817265.000000
+Z65 !s90 -reportprogress|300|-93|../vhdl/IR.vhd|
+Z66 !s107 ../vhdl/IR.vhd|
+!i113 1
+o-93
+R13
+Asynth
+R2
+R3
+DEx4 work 2 ir 0 22 hD3dd]_2ImaHP@eQT510T1
+l14
+L13
+VnKobHYAhgY8<i73E4bE471
+!s100 Dh;_jVW[HSDWA;oEJ_<ZW1
+R7
+31
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+o-93
+R13
+Eleds
+R0
+R1
+R2
+R3
+R4
+Z67 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/LEDs.vhd
+Z68 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/LEDs.vhd
+l0
+L5
+V82^IRfHNag^>;Yc>Z[nm>3
+!s100 LBhnQz<diU;5h1EbFfFEW1
+R7
+32
+R8
+!i10b 1
+R9
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/LEDs.vhd|
+Z70 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/LEDs.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 4 leds 0 22 82^IRfHNag^>;Yc>Z[nm>3
+l35
+L22
+V>3f<EDDzh?fl>Y0i[ad233
+!s100 >nX>UXM`h;^[mnM>habSd1
+R7
+32
+R8
+!i10b 1
+R9
+R69
+R70
+!i113 1
+R12
+R13
+Elogic_unit
+R0
+R2
+R3
+R4
+Z71 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/logic_unit.vhd
+Z72 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/logic_unit.vhd
+l0
+L4
+VfUEL39DQfcR_XLk:Hoe<f3
+!s100 UJioXKUg8XUULGTSe2WE20
+R7
+32
+Z73 !s110 1571817241
+!i10b 1
+Z74 !s108 1571817241.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/logic_unit.vhd|
+Z76 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/logic_unit.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 logic_unit 0 22 fUEL39DQfcR_XLk:Hoe<f3
+l14
+L13
+VkoA4<FRQ^mhm;N^[9nKQ>3
+!s100 EVFIX=UVk:]gEWZg1G>ej2
+R7
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R12
+R13
+Emultiplexer
+R0
+R2
+R3
+R4
+Z77 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/multiplexer.vhd
+Z78 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/multiplexer.vhd
+l0
+L4
+V4iH6`nZgBAHVia??bJk>G2
+!s100 UDM^5ga=kb9Z[=K^]bghV0
+R7
+32
+R73
+!i10b 1
+R74
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/multiplexer.vhd|
+Z80 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/multiplexer.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 11 multiplexer 0 22 4iH6`nZgBAHVia??bJk>G2
+l16
+L15
+V5__`cmX9H^[LiCB5]GWH12
+!s100 VATN6g@ZU0JaOYd=U4;Y>0
+R7
+32
+R73
+!i10b 1
+R74
+R79
+R80
+!i113 1
+R12
+R13
+Emux2x16
+R0
+R2
+R3
+R4
+Z81 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x16.vhd
+Z82 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x16.vhd
+l0
+L4
+VaHOL`3MF?g?d`[6<SJm^e1
+!s100 ]AkMHg3_OS9:k6cjVd[b:3
+R7
+32
+R20
+!i10b 1
+R21
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x16.vhd|
+Z84 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x16.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 7 mux2x16 0 22 aHOL`3MF?g?d`[6<SJm^e1
+l14
+L13
+VSCM^YE:@d<9VgBUK;=Td93
+!s100 4;RenM^Rz8>`=Q3FldKP@3
+R7
+32
+R20
+!i10b 1
+R21
+R83
+R84
+!i113 1
+R12
+R13
+Emux2x32
+R0
+R2
+R3
+R4
+Z85 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x32.vhd
+Z86 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x32.vhd
+l0
+L4
+V5<9;E?13m3J1aF01KEAAR1
+!s100 Iab^5l@hZCaSi22IEjFiN0
+R7
+32
+R20
+!i10b 1
+R21
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x32.vhd|
+Z88 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x32.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 7 mux2x32 0 22 5<9;E?13m3J1aF01KEAAR1
+l14
+L13
+V^fFe73?9DjWi[F@cA]iQi3
+!s100 5S]DZozX?Vl_VPJVcd^`71
+R7
+32
+R20
+!i10b 1
+R21
+R87
+R88
+!i113 1
+R12
+R13
+Emux2x5
+R0
+R2
+R3
+R4
+Z89 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x5.vhd
+Z90 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x5.vhd
+l0
+L4
+VW@GMgb]B=<MlVOlGRRM2i3
+!s100 A96?gLbg3Wafg>1JToSDm3
+R7
+32
+R20
+!i10b 1
+R21
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x5.vhd|
+Z92 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/mux2x5.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 6 mux2x5 0 22 W@GMgb]B=<MlVOlGRRM2i3
+l14
+L13
+Vdi193G2U?Oo;zGFn_GUgn3
+!s100 N7=4>f>UU4UOE;7d1ZYk42
+R7
+32
+R20
+!i10b 1
+R21
+R91
+R92
+!i113 1
+R12
+R13
+Epc
+R0
+R1
+R2
+R3
+R4
+Z93 8../vhdl/PC.vhd
+Z94 F../vhdl/PC.vhd
+l0
+L5
+VNn?=zTB=WL19i;=KJYcA52
+!s100 Vz;DIYb[AY;g5[laVME<e3
+R7
+31
+R28
+!i10b 1
+R29
+Z95 !s90 -reportprogress|300|-93|../vhdl/PC.vhd|
+Z96 !s107 ../vhdl/PC.vhd|
+!i113 1
+o-93
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 2 pc 0 22 Nn?=zTB=WL19i;=KJYcA52
+l22
+L19
+Vz<6V8TG^EV84VTMZ4d`bO0
+!s100 [eVN=[FT9DdoYWzDL3[cd1
+R7
+31
+R28
+!i10b 1
+R29
+R95
+R96
+!i113 1
+o-93
+R13
+Eram
+R0
+R1
+R2
+R3
+R4
+Z97 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/RAM.vhd
+Z98 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/RAM.vhd
+l0
+L5
+VJiWAmLGUWmdVPB8L2QZ[D3
+!s100 9O>00CFElD4PLMkihiTWm3
+R7
+32
+R73
+!i10b 1
+R74
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/RAM.vhd|
+Z100 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/RAM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 3 ram 0 22 JiWAmLGUWmdVPB8L2QZ[D3
+l23
+L16
+VKf6d=l10MZ6gB]U`^Sb?=3
+!s100 cV79HTE@E9OjoNg[K=];e2
+R7
+32
+R73
+!i10b 1
+R74
+R99
+R100
+!i113 1
+R12
+R13
+Eregister_file
+R0
+R1
+R2
+R3
+R4
+Z101 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/register_file.vhd
+Z102 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/register_file.vhd
+l0
+L5
+VhQYRZ<6ijZW2:hk46k4IZ2
+!s100 _;mToXbZzY:WVO^oMIJ;J3
+R7
+32
+R73
+!i10b 1
+R74
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/register_file.vhd|
+Z104 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/register_file.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 hQYRZ<6ijZW2:hk46k4IZ2
+l23
+L18
+V=fDf_;Yh=1Zm<87kXa]Ih3
+!s100 Xef]U9FjAS1iT41=T_SDX2
+R7
+32
+R73
+!i10b 1
+R74
+R103
+R104
+!i113 1
+R12
+R13
+Erom
+R0
+R2
+R3
+R4
+Z105 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM.vhd
+Z106 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM.vhd
+l0
+L4
+VLD>LKJh0<<KfR_G::f?6B1
+!s100 LzhnA0@bLeKPHkcXf<L3g3
+R7
+32
+R73
+!i10b 1
+R74
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM.vhd|
+Z108 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 3 rom 0 22 LD>LKJh0<<KfR_G::f?6B1
+l30
+L14
+VlA5j7J5K<U<Sc57a31>OM3
+!s100 dOFnV6Y9VoHn>Sc5h<RG]0
+R7
+32
+R73
+!i10b 1
+R74
+R107
+R108
+!i113 1
+R12
+R13
+Erom_block
+R0
+R2
+R3
+R4
+Z109 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM_Block.vhd
+Z110 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM_Block.vhd
+l0
+L42
+VCf[gZ]hQBZigaT1P:e9O01
+!s100 Fb1^C3b1G3KcM]0dFoPHV2
+R7
+32
+R73
+!i10b 1
+R74
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM_Block.vhd|
+Z112 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/ROM_Block.vhd|
+!i113 1
+R12
+R13
+Asyn
+R2
+R3
+DEx4 work 9 rom_block 0 22 Cf[gZ]hQBZigaT1P:e9O01
+l82
+L52
+VZKBR7P0EaE;PJMf_Ho4411
+!s100 2O9W8o5<`cI7Pb0TBCEoL0
+R7
+32
+R73
+!i10b 1
+R74
+R111
+R112
+!i113 1
+R12
+R13
+Eshift_unit
+R0
+R1
+R2
+R3
+R4
+Z113 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/shift_unit.vhd
+Z114 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/shift_unit.vhd
+l0
+L5
+VoYz=ZP:Rg2U9Eb=ZGo>940
+!s100 C4@E7NN0:UB89P^MW405S0
+R7
+32
+R73
+!i10b 1
+R74
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/shift_unit.vhd|
+Z116 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/vhdl/shift_unit.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 10 shift_unit 0 22 oYz=ZP:Rg2U9Eb=ZGo>940
+l17
+L14
+VNOiOnk]_oCJDa8RHk=_0n1
+!s100 dC3RH_ngSNidhYJX18aNc2
+R7
+32
+R73
+!i10b 1
+R74
+R115
+R116
+!i113 1
+R12
+R13
+Etb_controller
+R25
+Z117 DPx4 work 15 check_functions 0 22 <W1[dk2LN3hi[c?7kCXRb3
+R24
+R1
+R2
+R3
+R4
+Z118 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_Controller.vhd
+Z119 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_Controller.vhd
+l0
+L9
+V5[W5lV9lALk`VLfB7G@O[1
+!s100 QPYMI?@zF<fA]gVd9c[kS0
+R7
+32
+R8
+!i10b 1
+R9
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_Controller.vhd|
+Z121 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_Controller.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R117
+R24
+R1
+R2
+R3
+DEx4 work 13 tb_controller 0 22 5[W5lV9lALk`VLfB7G@O[1
+l102
+L15
+Vco=kRgU:DP_WHcBQJ_8332
+!s100 _WkzDDFBPd:3LHMWS[AoW2
+R7
+32
+R8
+!i10b 1
+R9
+R120
+R121
+!i113 1
+R12
+R13
+Etb_extend
+R25
+R32
+R24
+R2
+R3
+R4
+Z122 8../testbench/tb_Extend.vhd
+Z123 F../testbench/tb_Extend.vhd
+l0
+L8
+V8Ch;2Pa@J9]HVLTHFko753
+!s100 bW1ZJ800R3O0<C<7nO4h:1
+R7
+31
+R52
+!i10b 1
+R53
+Z124 !s90 -reportprogress|300|-93|../testbench/tb_Extend.vhd|
+Z125 !s107 ../testbench/tb_Extend.vhd|
+!i113 1
+o-93
+R13
+Atestbench
+R32
+R24
+R2
+R3
+DEx4 work 9 tb_extend 0 22 8Ch;2Pa@J9]HVLTHFko753
+l31
+L11
+V1ZiFXGEnM=V153?R<2fIf3
+!s100 f><EEJh?:BbXgSC^g?0XG2
+R7
+31
+R52
+!i10b 1
+R53
+R124
+R125
+!i113 1
+o-93
+R13
+Etb_gecko
+R25
+R2
+R3
+R4
+Z126 8C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_GECKO.vhd
+Z127 FC:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_GECKO.vhd
+l0
+L4
+V5Tbz7Kl=147iIIz>>A8Y[3
+!s100 M92[;29_Yc:FoKCCIgj]?0
+R7
+32
+R8
+!i10b 1
+R9
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_GECKO.vhd|
+Z129 !s107 C:/Users/abousawa/Desktop/PROJECT 1/Oct 16-2019/testbench/tb_GECKO.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R60
+R2
+R3
+DEx4 work 8 tb_gecko 0 22 5Tbz7Kl=147iIIz>>A8Y[3
+l14
+L7
+V6fQEk`>ELI8^:O]bcf[0k0
+!s100 1395I=^FjK==Lo:2:Ck6c3
+R7
+32
+R8
+!i10b 1
+R9
+R128
+R129
+!i113 1
+R12
+R13
+Etb_ir
+R25
+R32
+R24
+R2
+R3
+R4
+Z130 8../testbench/tb_IR.vhd
+Z131 F../testbench/tb_IR.vhd
+l0
+L8
+VMJ[mRa_mYoP5]W?VAdX_f1
+!s100 dO7:P:CO76Dg9T_Q>3Mi:2
+R7
+31
+R63
+!i10b 1
+R64
+Z132 !s90 -reportprogress|300|-93|../testbench/tb_IR.vhd|
+Z133 !s107 ../testbench/tb_IR.vhd|
+!i113 1
+o-93
+R13
+Atestbench
+R32
+R24
+R2
+R3
+DEx4 work 5 tb_ir 0 22 MJ[mRa_mYoP5]W?VAdX_f1
+l32
+L11
+VBLWLT;7z<L8:4m<ehMl8B2
+!s100 g?YUbkdlEmZ2JbBY[dbba0
+R7
+31
+R63
+!i10b 1
+R64
+R132
+R133
+!i113 1
+o-93
+R13
+Etb_pc
+R25
+R32
+R24
+R2
+R3
+R4
+Z134 8../testbench/tb_PC.vhd
+Z135 F../testbench/tb_PC.vhd
+l0
+L8
+V2P^Ye]=DcVobhf_EG_H431
+!s100 _Sjg^6a@flK7I1KVlG]Sm2
+R7
+31
+R28
+!i10b 1
+R29
+Z136 !s90 -reportprogress|300|-93|../testbench/tb_PC.vhd|
+Z137 !s107 ../testbench/tb_PC.vhd|
+!i113 1
+o-93
+R13
+Atestbench
+R32
+R24
+R2
+R3
+DEx4 work 5 tb_pc 0 22 2P^Ye]=DcVobhf_EG_H431
+l42
+L11
+Vf5G`eZIn6KizE:]=3UeFm0
+Z138 !s100 gKH@n?YGO`P>Bz<MRbX@K0
+R7
+31
+R28
+!i10b 1
+R29
+R136
+R137
+!i113 1
+o-93
+R13
